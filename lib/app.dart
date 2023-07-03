@@ -4,7 +4,9 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_login/authentication/authentication.dart';
 import 'package:flutter_login/authentication/bloc/authentication_bloc.dart';
 import 'package:flutter_login/home/home.dart';
+import 'package:flutter_login/home/view/home_page.dart';
 import 'package:flutter_login/login/login.dart';
+import 'package:flutter_login/login/view/login_page.dart';
 import 'package:flutter_login/splash/splash.dart';
 import 'package:user_repository/user_repository.dart';
 
